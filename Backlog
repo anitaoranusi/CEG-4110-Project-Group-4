@@ -3,3 +3,7 @@ US002 UserStory002: As a new cyber security intern, I would like there to be a f
 
 US003 UserStory003: As an Editor, I want to save document in a file so that users can open the document for further editing or review.
 US004 UserStory004: As an Editor, I want to automatically persist my changes so that I do not lose my changes if the tool is unexpectedly terminated before saving into a file.
+
+
+US005 UserStory005: As a student, I want to make a resume builder, so that it will create nicely formatted resume.
+US006 UserStory006: As a user, I want to make a graphic user interface for selected features so that people from non-programming background can use this feature.
