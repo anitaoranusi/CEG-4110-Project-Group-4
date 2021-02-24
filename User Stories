@@ -8,3 +8,4 @@ US005 UserStory005: As a student, I want to make a resume builder, so that it wi
 US006 UserStory006: As a user, I want to make a graphic user interface for selected features so that people from non-programming background can use this feature.
 
 US007 UserStory007: As a user, I would want there to be a feature that changes themes on the application like dark theme for example.
+US008 UserStory008: As a student, I would want to the option for the application to organize pdf pages in a certain style if I did not want to use the mouse to do it. 
